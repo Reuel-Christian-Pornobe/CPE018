@@ -1,2 +1,2 @@
-# CPE018
-Emerging Technologies 1
+# Emerging Technologies 1
+## Includes OpenCV
